@@ -1,0 +1,3 @@
+venv_project_api
+__pycache__
+db.sqlite3
